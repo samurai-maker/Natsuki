@@ -49,7 +49,7 @@ RUN apt update && apt upgrade -y && \
     libsqlite3-dev \
     sudo \
     zlib1g \
-    ffmpeg \
+    ffmpeg-latest \
     libssl-dev \
     libgconf-2-4 \
     libxi6 \
